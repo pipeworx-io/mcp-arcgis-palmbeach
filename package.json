@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-palmbeach",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Palm Beach County GIS — Palm Beach County, Florida open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-d8c094db2254930b2e9c5851c7817c7b62da652cab8e039ed4ee1e4b2a7e03da",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-0bc4e416dd6d4baacbbbb69d492d6cc47aaaa730fe5f6ef3ba3b9ffdf1015e7c",
+    "sourceCommit": "454041882179fae560c06e770b6b7a2f33970015"
   }
 }
